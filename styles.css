@@ -67,6 +67,10 @@ button {
   margin-top: 10px;
 }
 
+.callToActButton {
+  border:1px solid #E5E7EB;
+}
+
 .infoTitle {
   font-size: 36px;
   font-weight: 900;
