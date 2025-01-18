@@ -25,3 +25,9 @@ body {
 .quoteContainer {
   background-color: #E5E7EB;
 }
+
+h1 {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
