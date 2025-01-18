@@ -81,5 +81,6 @@ footer {
 .callToActBanner {
   display: flex;
   flex-direction: row;
-  max-width: 1000px;
+  width: 1000px;
 }
+
