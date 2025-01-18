@@ -46,7 +46,9 @@ footer {
   color: #F9FAF8;
 }
 
-.heroButton, .callToActBanner, .callToActButton {
+.heroButton, 
+.callToActBanner, 
+.callToActButton {
   background-color: #3882F6;
   color: #F9FAF8;
 }
@@ -63,11 +65,18 @@ footer {
   color: #1F2937;
 }
 
+.citation {
+  font-size: 24px;
+  font-weight: 800;
+  font-style: normal;
+}
+
 .heroImagePlaceholder {
   color: #E5E7EB;
   height: 250px;
   width: 500px;
   background-color: grey;
+  
 }
 
 .figImgPlaceholder {
