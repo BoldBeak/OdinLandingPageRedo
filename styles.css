@@ -41,3 +41,8 @@ h1 {
   font-size: 24px;
   color: #F9FAF8;
 }
+
+.heroButton, .callToActBanner, .callToActButton {
+  background-color: #3882F6;
+  color: #F9FAF8;
+}
