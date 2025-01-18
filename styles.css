@@ -116,6 +116,11 @@ footer {
   padding-bottom: 150px;
 }
 
+.heroRight, 
+.heroLeft {
+  width: 45%;
+}
+
 .infoContainer {
   padding-bottom: 100px;
 }
