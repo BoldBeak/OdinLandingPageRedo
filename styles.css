@@ -104,3 +104,9 @@ footer {
 .quoteBanner {
   width: 900px;
 }
+
+.navContainer {
+  width: 50%;
+  display: inherit;
+  justify-content: space-between;
+}
