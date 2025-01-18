@@ -72,3 +72,11 @@ h1 {
   width: 150px;
   border-radius: 10px;
 }
+
+.headerContainer, 
+.heroContentContainer,
+.figuresContainer, 
+.callToActBanner {
+  display: flex;
+  flex-direction: row;
+}
