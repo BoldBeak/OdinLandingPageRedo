@@ -32,7 +32,9 @@ h1 {
   color: #F9FAF8;
 }
 
-.heroText, .navLink {
+.heroText, 
+.navLink, 
+footer {
   font-size: 18px;
   color: #E5E7EB;
 }
