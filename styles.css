@@ -60,6 +60,13 @@ footer {
   color: #F9FAF8;
 }
 
+button {
+  width: 120px;
+  padding: 8px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
 .infoTitle {
   font-size: 36px;
   font-weight: 900;
