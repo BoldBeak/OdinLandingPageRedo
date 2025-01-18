@@ -65,3 +65,10 @@ h1 {
   width: 500px;
   background-color: grey;
 }
+
+.figImgPlaceholder {
+  border: 5px solid #3882F6;
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
