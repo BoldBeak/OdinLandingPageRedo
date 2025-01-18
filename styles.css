@@ -144,6 +144,15 @@ button {
   padding-bottom: 100px;
 }
 
+.callToActBanner {
+  padding: 50px 100px;
+  border-radius: 12px;
+}
+
+.callToActHeading {
+  font-size: 24px;
+}
+
 .footerContainer {
   padding-top: 50px;
   padding-bottom: 50px;
