@@ -110,3 +110,8 @@ footer {
   display: inherit;
   justify-content: space-between;
 }
+
+.heroContentContainer {
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
